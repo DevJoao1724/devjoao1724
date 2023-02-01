@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJoao1724&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoao1724)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -16,4 +18,3 @@
 </div> <br>
 
 ### Ainda estou aprendendo e busco uma Oportunidade de Emprego
-
